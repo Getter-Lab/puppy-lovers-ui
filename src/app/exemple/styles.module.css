@@ -1,0 +1,7 @@
+.container {
+  @apply flex min-h-screen flex-col items-center justify-center gap-4 p-24;
+}
+
+.content {
+  @apply text-6xl font-bold;
+}
